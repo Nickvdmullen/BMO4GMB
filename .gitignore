@@ -1,0 +1,9 @@
+.rpt2_cache/
+.yalc/
+.vscode/
+node_modules/
+karma.conf.js
+*.tgz
+dist/**/*.js.map
+.travis.yml
+.cache/
